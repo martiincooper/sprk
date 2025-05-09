@@ -15,7 +15,7 @@ logo_text = "SPRK"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
+theme_switcher = false # enable theme switcher
 theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
