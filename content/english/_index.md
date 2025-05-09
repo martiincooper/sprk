@@ -1,51 +1,54 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Optimice sus Postulaciones a Fondos Concursables con Análisis Predictivo y Procesamiento Avanzado de Datos"
+  content: "Nuestra plataforma SaaS utiliza modelos de aprendizaje y procesamiento de datos para asistir a emprendedores en la postulación a fondos chilenos (CORFO y otros), incrementando la probabilidad de adjudicación mediante un análisis riguroso y estructurado. Acceda también a guías y recursos para fortalecer su estrategia de financiamiento."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Conozca la Plataforma"
+    link: "#" # Actualiza este enlace a la sección relevante o contacto
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Capacidades Clave de Nuestro Sistema de Soporte a Postulaciones (POC)"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "La Prueba de Concepto (POC) demuestra la efectividad de nuestra tecnología base, incluyendo el análisis profundo de documentos (RAG++) y un motor de reglas heurísticas, para entregar valor tangible en la preparación de postulaciones a fondos."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "<strong>Análisis contextual de bases</strong>: Extracción precisa de requisitos y criterios de convocatorias CORFO."
+      - "<strong>Validación de coherencia</strong>: Detección de inconsistencias y errores formales mediante reglas predefinidas."
+      - "<strong>Flujo de trabajo estructurado</strong>: Guía metodológica a través de secciones críticas de los formularios."
+      - "<strong>Infraestructura de aprendizaje</strong>: Diseño para la captura y procesamiento de datos de resultados (base para modelos predictivos)."
+      - "<strong>Validación técnica</strong> de la arquitectura y su integración con modelos de lenguaje avanzados."
+      - "Fundamento para la **obtención de financiamiento** y desarrollo futuro del sistema."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Explorar Metodología"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Desarrollo de un Sistema Adaptativo para el Financiamiento Estratégico"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Nuestra visión es consolidar una plataforma líder en Chile basada en un ciclo de aprendizaje propietario, ofreciendo inteligencia de datos para el financiamiento y crecimiento de startups."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "<strong>Modelos predictivos</strong> para estimar la probabilidad de adjudicación por instrumento."
+      - "<strong>Optimización de contenido</strong> basada en análisis de datos y resultados previos."
+      - "<strong>Análisis de viabilidad financiera</strong> contextualizado al mercado chileno."
+      - "<strong>Benchmarking competitivo</strong> a partir de datos agregados del ecosistema."
+      - "<strong>Soporte integral</strong> para la gestión y reporte post-adjudicación (desarrollo futuro)."
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: true # Ideal para "Ver Publicaciones" o "Guías para Emprendedores"
+      label: "Acceder a Recursos y Guías"
+      link: "#" # Actualiza este enlace a tu blog o sección de recursos
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Beneficios de una Aproximación Sistemática al Financiamiento de Proyectos"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Aborde los desafíos del acceso a financiamiento con una herramienta que provee análisis detallado y soporte estructurado, mejorando la calidad y efectividad de sus postulaciones."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "<strong>Eficiencia procesal</strong>: Reduce el tiempo invertido en la preparación de propuestas complejas."
+      - "<strong>Claridad en criterios</strong>: Mayor comprensión de los factores de evaluación."
+      - "<strong>Reducción de errores</strong>: Minimiza fallos formales e inconsistencias documentales."
+      - "<strong>Soporte a postulantes</strong> con diversos niveles de experiencia previa."
+      - "<strong>Mejora competitiva</strong> en procesos de selección con alta demanda."
     button:
       enable: false
       label: ""
