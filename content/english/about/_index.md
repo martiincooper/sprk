@@ -1,6 +1,6 @@
 ---
 title: "Hola, soy Martin Cooper"
-meta_title: "Acerca de Martin Cooper - Impulsando el Éxito Emprendedor en Chile"
+meta_title: "Fundador"
 description: "Conoce a Martin Cooper, Inveniero Civil Electrónico y fundador, y su visión para ayudar a emprendedores chilenos a través de SPRK."
 image: "/images/cooper.png" # Asegúrate de que esta imagen exista o actualízala
 draft: false
