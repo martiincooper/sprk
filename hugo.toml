@@ -1,27 +1,38 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://example.org"
+baseURL = "https://sprk.cl"
 # Title of your website (required).
 title = "Hugoplate"
 # Your theme name
-# theme = "hugoplate"
+theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "America/Santiago"
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
-# disable language
-disableLanguages = [
-] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
-hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
-# default language
-defaultContentLanguage = 'en'
-# defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
-defaultContentLanguageInSubdir = false
+
+# disable language - This is not needed when only one language is configured
+# disableLanguages = []
+
+# hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
+
+# defaultContentLanguage = 'es' # This line is optional now, as 'es' is the implicit default
+
+# Remove or comment out this line to prevent the language subdirectory in the URL
+# defaultContentLanguageInSubdir = true
+
+# Remove the entire [languages] section
+# [languages]
+#   [languages.es]
+#     contentDir = 'content/es' # Adjust this path if your Spanish content is elsewhere
+#     languageName = 'Spanish'
+#     weight = 1
+#     # Add other language-specific settings here if needed (like title, params, etc.)
+
 
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
-ID = 'G-MEASUREMENT_ID' # see https://gohugo.io/templates/internal/#configure-google-analytics
+ID = 'G-PX6N8CTM8L' # see https://gohugo.io/templates/internal/#configure-google-analytics
 
 [services.disqus]
 shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
