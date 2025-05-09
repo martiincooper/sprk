@@ -1,30 +1,30 @@
 ---
 # Banner
 banner:
-  title: "Optimice sus Postulaciones a Fondos Concursables con Análisis Predictivo y Procesamiento Avanzado de Datos"
-  content: "Nuestra plataforma SaaS utiliza modelos de aprendizaje y procesamiento de datos para asistir a emprendedores en la postulación a fondos chilenos (CORFO y otros), incrementando la probabilidad de adjudicación mediante un análisis riguroso y estructurado. Acceda también a guías y recursos para fortalecer su estrategia de financiamiento."
+  title: "Optimice sus Postulaciones a Fondos Concursables con Análisis Predictivo y Datos"
+  content: "Apoyamos a emprendedores en Chile a postular a fondos como CORFO, usando modelos inteligentes y datos estructurados para aumentar sus probabilidades de éxito. Incluye guías y recursos clave para su estrategia de financiamiento."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Conozca la Plataforma"
+    label: "¡Hablemos!"
     link: "#" # Actualiza este enlace a la sección relevante o contacto
 
 # Features
 features:
-  - title: "Capacidades Clave de Nuestro Sistema de Soporte a Postulaciones (POC)"
+  - title: "Acompañamiento Experto para Postulaciones Competitivas"
     image: "/images/service-1.png"
-    content: "La Prueba de Concepto (POC) demuestra la efectividad de nuestra tecnología base, incluyendo el análisis profundo de documentos (RAG++) y un motor de reglas heurísticas, para entregar valor tangible en la preparación de postulaciones a fondos."
+    content: "Nuestro servicio entrega informes detallados que fortalecen postulaciones a fondos concursables, ayudando a mejorar la calidad, coherencia y enfoque estratégico de cada entrega."
     bulletpoints:
-      - "<strong>Análisis contextual de bases</strong>: Extracción precisa de requisitos y criterios de convocatorias CORFO."
-      - "<strong>Validación de coherencia</strong>: Detección de inconsistencias y errores formales mediante reglas predefinidas."
-      - "<strong>Flujo de trabajo estructurado</strong>: Guía metodológica a través de secciones críticas de los formularios."
-      - "<strong>Infraestructura de aprendizaje</strong>: Diseño para la captura y procesamiento de datos de resultados (base para modelos predictivos)."
-      - "<strong>Validación técnica</strong> de la arquitectura y su integración con modelos de lenguaje avanzados."
-      - "Fundamento para la **obtención de financiamiento** y desarrollo futuro del sistema."
+      - "<strong>Análisis de bases</strong>: Identificamos y resumimos los requisitos clave de convocatorias como CORFO y similares."
+      - "<strong>Revisión de coherencia</strong>: Detectamos errores formales y desajustes en las respuestas antes del envío."
+      - "<strong>Guía estructurada</strong>: Acompañamos el desarrollo de secciones críticas del formulario paso a paso."
+      - "<strong>Recomendaciones prácticas</strong>: Entregamos sugerencias claras para reforzar el enfoque técnico y estratégico."
+      - "<strong>Optimización continua</strong>: Ajustamos según criterios comunes de evaluación y buenas prácticas."
     button:
       enable: false
       label: "Explorar Metodología"
       link: "#"
+
 
   - title: "Desarrollo de un Sistema Adaptativo para el Financiamiento Estratégico"
     image: "/images/service-2.png"
