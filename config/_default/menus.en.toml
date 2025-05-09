@@ -1,4 +1,4 @@
-############# English navigation ##############
+#############  Navigation ##############
 
 # main menu
 [[main]]
@@ -7,8 +7,8 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Guías"
+url = "/guia"
 weight = 2
 
 [[main]]
@@ -16,8 +16,14 @@ name = "Blog"
 url = "/blog"
 weight = 3
 
+
 [[main]]
+name = "Founder"
+url = "/about"
 weight = 4
+
+[[main]]
+weight = 5
 name = "Pages"
 
 [[main]]
@@ -48,14 +54,14 @@ url = "/404"
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Founder"
 url = "/about"
-weight = 1
+weight = 2
 
 [[footer]]
-name = "Elements"
-url = "/elements"
-weight = 2
+name = "Blog"
+url = "/blog"
+weight = 1
 
 [[footer]]
 name = "Privacy Policy"
