@@ -1,33 +1,55 @@
 ---
 title: "Privacy"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Política de Privacidad y Uso de Datos"
+description: "Conoce cómo recolectamos, usamos y protegemos tus datos en SPRK."
 draft: false
 ---
 
-#### Responsibility of Contributors
+## Política de Privacidad y Uso de Datos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+En SPRK valoramos tu confianza y tu privacidad. Esta política describe qué información recopilamos, con qué fines la usamos y cómo la protegemos.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+### 1. Información que Recopilamos
+- **Datos de contacto**: nombre, correo electrónico y organización, cuando te registras o nos contactas.  
+- **Datos de uso**: historial de consultas, descargas de informes y métricas de interacción con nuestros contenidos.  
+- **Información técnica**: dirección IP, tipo de navegador y dispositivo, y registro de accesos.
 
-#### Gathering of Personal Information
+### 2. Finalidad del Tratamiento
+Usamos tus datos para:
+1. **Prestar el servicio**: generar y enviar por correo los informes personalizados para tus postulaciones.  
+2. **Mejorar la plataforma**: comprender patrones de uso y optimizar nuestras guías y recursos.  
+3. **Comunicación**: informarte sobre actualizaciones, nuevas guías o cambios en la política.  
+4. **Seguridad**: detectar y prevenir accesos no autorizados o usos indebidos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+### 3. Bases Legales
+- **Consentimiento**: cuando te registras y aceptas esta política.  
+- **Ejecución de un contrato**: envío de informes y prestación del servicio contratado.  
+- **Intereses legítimos**: mejora continua de la plataforma y prevención de fraudes.
 
-#### Protection of Personal- Information
+### 4. Compartición de Datos
+No vendemos ni alquilamos tu información personal. Podemos compartir datos con:
+- **Proveedores de correo**: para la entrega de informes.  
+- **Servicios de análisis**: mediante datos anónimos y agregados, sin identificación personal.  
+- **Obligaciones legales**: si la ley lo exige o para proteger nuestros derechos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+### 5. Conservación de Datos
+- Conservamos tu información de contacto mientras mantengas una cuenta activa o durante 2 años tras la última interacción.  
+- Los datos de uso y métricas se almacenan de forma anonimizada para análisis a largo plazo.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+### 6. Tus Derechos
+Puedes, en cualquier momento, solicitarnos:
+- **Acceso**: conocer qué datos tuyos procesamos.  
+- **Rectificación**: corregir datos inexactos.  
+- **Supresión**: eliminar tu información personal.  
+- **Limitación** o **oposición** al tratamiento.  
+- **Portabilidad**: recibir tus datos en formato electrónico.
 
-#### Privacy Policy Changes
+Para ejercer tus derechos, escríbenos a: [martin.munozmun@usm.cl](mailto:martin.munozmun@usm.cl).
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+### 7. Seguridad
+Implementamos medidas técnicas y organizativas para proteger tus datos contra pérdidas, accesos no autorizados y modificaciones indebidas.
+
+### 8. Cambios en la Política
+Podemos actualizar esta política para adaptarnos a nuevas regulaciones o mejoras en el servicio. Te avisaremos por correo electrónico y publicaremos la versión actualizada en nuestro sitio.
+
+> **Fecha de última actualización:** 9 de mayo de 2025  
