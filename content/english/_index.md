@@ -36,7 +36,7 @@ features:
       - "<strong>Benchmarking competitivo</strong> a partir de datos agregados del ecosistema."
       - "<strong>Soporte integral</strong> para la gestión y reporte post-adjudicación (desarrollo futuro)."
     button:
-      enable: true # Ideal para "Ver Publicaciones" o "Guías para Emprendedores"
+      enable: false # Ideal para "Ver Publicaciones" o "Guías para Emprendedores"
       label: "Acceder a Recursos y Guías"
       link: "#" # Actualiza este enlace a tu blog o sección de recursos
 
