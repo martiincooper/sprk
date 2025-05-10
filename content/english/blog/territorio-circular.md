@@ -5,7 +5,7 @@ description: "El programa Territorio Circular de Corfo lanza su Hoja de Ruta 202
 date: 2025-04-25
 image: "/images/blog-placeholder.png" # Reemplazar con imagen relevante si es posible
 categories: ["Sostenibilidad", "Economía Circular", "Chile"]
-author: "Equipo Editorial" # O un nombre más específico si se prefiere
+author: "Martin Cooper" # O un nombre más específico si se prefiere
 tags: ["corfo", "economía circular", "innovación"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "Parlamentarios chilenos aprueban proyecto de resolución solicitan
 date: 2025-05-10 # Asumiendo que el blog post se crea poco después de la noticia (6 de Mayo 2025)
 image: "/images/blog-placeholder.png" # Reemplazar con una imagen adecuada si es posible
 categories: ["Emprendimiento", "Startups", "Política Chilena", "Innovación"]
-author: "Voz Emprendedora" # Un nombre de autor que resuene con el tema
+author: "Martin Cooper" # Un nombre de autor que resuene con el tema
 tags: ["startups chile", "apoyo emprendimiento", "congreso chile", "innovacion", "economia digital", "gabriel boric"]
 draft: false
 ---
