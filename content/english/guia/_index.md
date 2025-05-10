@@ -73,3 +73,4 @@ Actualizamos la documentación con cada lanzamiento de nuevas características y
 
 {{< accordion "¿Dónde puedo encontrar ejemplos de código?" >}}
 Ofrecemos ejemplos de código en cada sección relevante. También tenemos un repositorio dedicado de ejemplos en:
+{{< /accordion >}}
