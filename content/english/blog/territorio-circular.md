@@ -3,7 +3,7 @@ title: "Territorio Circular: Chile Hacia un Futuro Regenerativo con su Nueva Hoj
 meta_title: "Economía Circular en Chile: Hoja de Ruta Territorio Circular 2025-2030"
 description: "El programa Territorio Circular de Corfo lanza su Hoja de Ruta 2025-2030, impulsando la economía circular en Chile con metas ambiciosas y un enfoque en la sostenibilidad."
 date: 2025-04-25
-image: "/images/image-placeholder.png" # Reemplazar con imagen relevante si es posible
+image: "/images/blog-placeholder.png" # Reemplazar con imagen relevante si es posible
 categories: ["Sostenibilidad", "Economía Circular", "Chile"]
 author: "Equipo Editorial" # O un nombre más específico si se prefiere
 tags: ["corfo", "economía circular", "innovación"]

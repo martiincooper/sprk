@@ -3,7 +3,7 @@ title: "¡Atención Emprendedores! Diputados Piden al Presidente Boric una Agend
 meta_title: "Congreso Chileno Impulsa Agenda Pro-Startups y Emprendimiento"
 description: "Parlamentarios chilenos aprueban proyecto de resolución solicitando al Presidente Boric medidas concretas para fomentar el ecosistema de startups y emprendimiento en el país."
 date: 2025-05-10 # Asumiendo que el blog post se crea poco después de la noticia (6 de Mayo 2025)
-image: "/images/image-placeholder.png" # Reemplazar con una imagen adecuada si es posible
+image: "/images/blog-placeholder.png" # Reemplazar con una imagen adecuada si es posible
 categories: ["Emprendimiento", "Startups", "Política Chilena", "Innovación"]
 author: "Voz Emprendedora" # Un nombre de autor que resuene con el tema
 tags: ["startups chile", "apoyo emprendimiento", "congreso chile", "innovacion", "economia digital", "gabriel boric"]
