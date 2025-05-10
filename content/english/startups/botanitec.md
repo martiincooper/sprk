@@ -2,10 +2,11 @@
 title: "Botanitec: Innovación en Agricultura con Biotecnología Natural"
 meta_title: "Descubre Botanitec y sus soluciones de biotecnología para una agricultura sostenible"
 description: "Botanitec lidera la transformación de la agricultura con soluciones biotecnológicas naturales, mejorando el rendimiento y la calidad de los cultivos de forma sostenible."
-image: "/images/placeholder.png"
+date: 2025-05-10
+image: "/images/image-placeholder.png"
 categories: ["Agricultura", "Biotecnología", "Sostenibilidad"]
-author: "Martin Cooper"
-tags: ["agrotech", "biotecnologia"]
+author: "John Doe"
+tags: ["agricultura sostenible", "biotecnologia", "innovacion agricola"]
 draft: false
 ---
 
