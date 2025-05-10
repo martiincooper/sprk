@@ -1,0 +1,23 @@
+
+{{ define "main" }}
+  <!-- Muestra title y description del front matter -->
+  <section class="py-8 text-center">
+    <div class="container">
+      <h2 class="h1 mb-2">{{ .Title }}</h2>
+      <p class="lead mb-4">{{ .Params.description }}</p>
+    </div>
+  </section>
+
+  <!-- Sección de Fundadores con espaciado reducido -->
+  <section class="py-8">
+    <div class="container">
+      <div class="row">
+        {{ range .RegularPages }}
+          <div class="md:col-6 lg:col-4 mb-10">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}

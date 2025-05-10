@@ -12,15 +12,20 @@ url = "/startups"
 weight = 2
 
 [[main]]
+name = "Founders"
+url = "/founders"
+weight = 3
+
+[[main]]
 name = "Blog"
 url = "/blog"
-weight = 3
+weight = 4
 
 
 [[main]]
-name = "Founder"
+name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 #[[main]]
 #weight = 5
