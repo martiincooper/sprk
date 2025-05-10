@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "¡Hablemos!"
-    link: "/contacto" # Actualiza este enlace a la sección relevante o contacto
+    link: "/contact" # Actualiza este enlace a la sección relevante o contacto
 
 # Features
 features:
