@@ -27,14 +27,4 @@ El equipo de expertos de Botanitec está comprometido a ayudar a los agricultore
 
 Si buscas mejorar la salud de tus cultivos, aumentar tu rendimiento y adoptar prácticas agrícolas más sostenibles, las soluciones de Botanitec ofrecen una respuesta natural y efectiva.
 
-**Contacto en Chile:**
-Las Rocas 181, Santo Domingo, Región de Valparaíso
-+56995489080
-info@botanitec.cl
-
-**Contacto en Perú (RSQ Agro):**
-San Isidro, Lima
-+5190545600
-sescalante@rsqagro.com
-
 
