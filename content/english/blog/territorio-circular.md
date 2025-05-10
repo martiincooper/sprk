@@ -6,7 +6,7 @@ date: 2025-04-25
 image: "/images/image-placeholder.png" # Reemplazar con imagen relevante si es posible
 categories: ["Sostenibilidad", "Economía Circular", "Chile"]
 author: "Equipo Editorial" # O un nombre más específico si se prefiere
-tags: [corfo", "economía circular", "innovación"]
+tags: ["corfo", "economía circular", "innovación"]
 draft: false
 ---
 
