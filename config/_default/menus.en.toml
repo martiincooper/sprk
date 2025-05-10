@@ -33,8 +33,8 @@ url = "/elements"
 
 [[main]]
 parent = "Pages"
-name = "Contact"
-url = "/contact"
+name = "Contacto"
+url = "/contacto"
 
 [[main]]
 parent = "Pages"
@@ -43,7 +43,7 @@ url = "/authors"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
+name = "Categorías"
 url = "/categories"
 
 [[main]]
