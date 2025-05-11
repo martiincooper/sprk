@@ -23,7 +23,7 @@ weight = 4
 
 
 [[main]]
-name = "About"
+name = "About Us"
 url = "/about"
 weight = 5
 
@@ -59,7 +59,7 @@ weight = 5
 
 # footer menu
 [[footer]]
-name = "Founder"
+name = "About US"
 url = "/about"
 weight = 2
 

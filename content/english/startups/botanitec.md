@@ -5,7 +5,7 @@ description: "Botanitec lidera la transformación de la agricultura con solucion
 date: 2025-05-10
 image: "/images/image-placeholder.png"
 categories: ["Agricultura", "Biotecnología", "Sostenibilidad"]
-author: "John Doe"
+author: "Martin Cooper"
 tags: ["agricultura sostenible", "biotecnologia", "innovacion agricola"]
 draft: false
 ---
