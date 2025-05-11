@@ -1,5 +1,6 @@
 ---
 # Banner
+# Banner
 banner:
   title: "Optimice sus Postulaciones a Fondos Concursables con Análisis Predictivo y Datos"
   content: "Apoyamos a emprendedores en Chile a postular a fondos como CORFO, usando modelos inteligentes y datos estructurados para aumentar sus probabilidades de éxito. Incluye guías y recursos clave para su estrategia de financiamiento."
@@ -7,7 +8,9 @@ banner:
   button:
     enable: true
     label: "¡Hablemos!"
-    link: "/contacto" # Actualiza este enlace a la sección relevante o contacto
+    link: "/contacto"
+    style: "outline"    # Añade esta línea para establecer el estilo del botón
+
 
 # Features
 features:

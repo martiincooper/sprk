@@ -1,10 +1,16 @@
-
 {{ define "main" }}
   <!-- Muestra title y description del front matter -->
   <section class="py-8 text-center">
     <div class="container">
       <h2 class="h1 mb-2">{{ .Title }}</h2>
       <p class="lead mb-4">{{ .Params.description }}</p>
+    </div>
+  </section>
+
+  <!-- Render the content from _index.md (including notice shortcode) -->
+  <section class="py-4">
+    <div class="container">
+      {{ .Content }}
     </div>
   </section>
 
