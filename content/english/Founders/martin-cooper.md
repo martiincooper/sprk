@@ -1,5 +1,5 @@
 ---
-title: Martin Cooper
+title: Martín Cooper
 #email: martin.munozmun@usm.cl
 image: "/images/cooper.png"
 description: this is meta description

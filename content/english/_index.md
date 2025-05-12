@@ -1,57 +1,55 @@
 ---
 # Banner
-# Banner
 banner:
-  title: "Optimice sus Postulaciones a Fondos Concursables con Análisis Predictivo y Datos"
-  content: "Apoyamos a emprendedores en Chile a postular a fondos como CORFO, usando modelos inteligentes y datos estructurados para aumentar sus probabilidades de éxito. Incluye guías y recursos clave para su estrategia de financiamiento."
+  title: "Aumenta tu tasa de adjudicación: postulaciones data-driven a fondos concursables <u>gratis</u>"
+
+  content: "Apoyamos a emprendedores en Chile a postular a fondos como CORFO, usando modelos inteligentes y datos estructurados para aumentar sus probabilidades de éxito. Operamos bajo un modelo Success Fee: sin costo inicial para ti, pagas en función de hitos vinculados a la entrega de informes de avance y final del proyecto adjudicado."
   image: "/images/banner.png"
   button:
     enable: true
     label: "¡Hablemos!"
     link: "/contacto"
-    style: "outline"    # Añade esta línea para establecer el estilo del botón
-
+    style: "outline"
 
 # Features
 features:
   - title: "Acompañamiento Experto para Postulaciones Competitivas"
     image: "/images/service-1.png"
-    content: "Nuestro servicio entrega informes detallados que fortalecen postulaciones a fondos concursables, ayudando a mejorar la calidad, coherencia y enfoque estratégico de cada entrega."
+    content: "Entregamos informes técnicos de avance y final que fortalece tu ejecució del proyecto adjudicado. Nuestro cobro se alinea al éxito: facturamos tras la adjudicación y por cada hito de informe aprobado."
     bulletpoints:
-      - "<strong>Análisis de bases</strong>: Identificamos y resumimos los requisitos clave de convocatorias como CORFO y similares."
-      - "<strong>Revisión de coherencia</strong>: Detectamos errores formales y desajustes en las respuestas antes del envío."
-      - "<strong>Guía estructurada</strong>: Acompañamos el desarrollo de secciones críticas del formulario paso a paso."
-      - "<strong>Recomendaciones prácticas</strong>: Entregamos sugerencias claras para reforzar el enfoque técnico y estratégico."
-      - "<strong>Optimización continua</strong>: Ajustamos según criterios comunes de evaluación y buenas prácticas."
+      - "<strong>Análisis de bases</strong>: Identificamos y resumimos requisitos clave de convocatorias como CORFO."
+      - "<strong>Revisión de coherencia</strong>: Detectamos errores formales y desajustes antes del envío."
+      - "<strong>Guía estructurada</strong>: Acompañamos el desarrollo de secciones críticas del formulario."
+      - "<strong>Informes de Avance y Final</strong>: Redacción profesional conforme a instrucciones de CORFO."
+      - "<strong>Pago por hitos</strong>: Sin costo inicial, define tres entregables (Avance 1, Avance 2, Final) sincronizados con tus desembolsos."
     button:
       enable: false
       label: "Explorar Metodología"
       link: "#"
 
-
   - title: "Desarrollo de un Sistema Adaptativo para el Financiamiento Estratégico"
     image: "/images/service-2.png"
-    content: "Nuestra visión es consolidar una plataforma líder en Chile basada en un ciclo de aprendizaje propietario, ofreciendo inteligencia de datos para el financiamiento y crecimiento de startups."
+    content: "Construimos una plataforma de inteligencia de datos para financiamiento, con modelos predictivos y ciclo de aprendizaje propietario. Incluye soporte futuro en informes técnicos y seguimiento post-adjudicación."
     bulletpoints:
-      - "<strong>Modelos predictivos</strong> para estimar la probabilidad de adjudicación por instrumento."
-      - "<strong>Optimización de contenido</strong> basada en análisis de datos y resultados previos."
+      - "<strong>Modelos predictivos</strong> para estimar la probabilidad de adjudicación."
+      - "<strong>Optimización de contenido</strong> basada en análisis de resultados previos."
       - "<strong>Análisis de viabilidad financiera</strong> contextualizado al mercado chileno."
-      - "<strong>Benchmarking competitivo</strong> a partir de datos agregados del ecosistema."
-      - "<strong>Soporte integral</strong> para la gestión y reporte post-adjudicación (desarrollo futuro)."
+      - "<strong>Benchmarking competitivo</strong> a partir de datos del ecosistema."
+      - "<strong>Soporte post-adjudicación</strong>: elaboración de informes de avance y final."
     button:
-      enable: false # Ideal para "Ver Publicaciones" o "Guías para Emprendedores"
+      enable: false
       label: "Acceder a Recursos y Guías"
-      link: "#" # Actualiza este enlace a tu blog o sección de recursos
+      link: "#"
 
   - title: "Beneficios de una Aproximación Sistemática al Financiamiento de Proyectos"
     image: "/images/service-3.png"
-    content: "Aborde los desafíos del acceso a financiamiento con una herramienta que provee análisis detallado y soporte estructurado, mejorando la calidad y efectividad de sus postulaciones."
+    content: "Reduce riesgos y mejora tus tasas de éxito con un enfoque estructurado que combina análisis detallado, seguimiento metodológico e informes profesionales."
     bulletpoints:
-      - "<strong>Eficiencia procesal</strong>: Reduce el tiempo invertido en la preparación de propuestas complejas."
-      - "<strong>Claridad en criterios</strong>: Mayor comprensión de los factores de evaluación."
-      - "<strong>Reducción de errores</strong>: Minimiza fallos formales e inconsistencias documentales."
-      - "<strong>Soporte a postulantes</strong> con diversos niveles de experiencia previa."
-      - "<strong>Mejora competitiva</strong> en procesos de selección con alta demanda."
+      - "<strong>Eficiencia procesal</strong>: Menos tiempo preparando propuestas complejas."
+      - "<strong>Claridad en criterios</strong>: Comprende mejor los factores de evaluación."
+      - "<strong>Reducción de errores</strong>: Evita fallos formales e inconsistencias."
+      - "<strong>Pago alineado al éxito</strong>: inversión distribuida en hitos de informes, sin riesgo inicial."
+      - "<strong>Mejora competitiva</strong> en convocatorias de alta demanda."
     button:
       enable: false
       label: ""
