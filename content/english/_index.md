@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Aumenta tu tasa de adjudicación: postulaciones data-driven a fondos concursables <u>gratis</u>"
+  title: "Aumenta tu tasa de adjudicación: postulaciones data-driven a fondos concursables <span class=\"double-underline\">gratis.</span>"
 
   content: "Apoyamos a emprendedores en Chile a postular a fondos como CORFO, usando modelos inteligentes y datos estructurados para aumentar sus probabilidades de éxito. Operamos bajo un modelo Success Fee: sin costo inicial para ti, pagas en función de hitos vinculados a la entrega de informes de avance y final del proyecto adjudicado."
   image: "/images/banner.png"

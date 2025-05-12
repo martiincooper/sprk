@@ -1,1 +1,6 @@
 /* Add your own custom styles here */
+.double-underline {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+  }
+  
