@@ -17,11 +17,11 @@ features:
     image: "/images/service-1.png"
     content: "Entregamos informes técnicos de avance y final que fortalece tu ejecució del proyecto adjudicado. Nuestro cobro se alinea al éxito: facturamos tras la adjudicación y por cada hito de informe aprobado."
     bulletpoints:
-      - "<strong>Análisis de bases</strong>: Identificamos y resumimos requisitos clave de convocatorias como CORFO."
+      - "<strong>Análisis de bases</strong>: Identificamos y resumimos requisitos clave y focalizaciones de convocatorias como CORFO."
       - "<strong>Revisión de coherencia</strong>: Detectamos errores formales y desajustes antes del envío."
       - "<strong>Guía estructurada</strong>: Acompañamos el desarrollo de secciones críticas del formulario."
       - "<strong>Informes de Avance y Final</strong>: Redacción profesional conforme a instrucciones de CORFO."
-      - "<strong>Pago por hitos</strong>: Sin costo inicial, define tres entregables (Avance 1, Avance 2, Final) sincronizados con tus desembolsos."
+      - "<strong>Pago por hitos</strong>: Sin costo inicial por la postulación, define tres entregables sincronizados con tus desembolsos."
     button:
       enable: false
       label: "Explorar Metodología"
