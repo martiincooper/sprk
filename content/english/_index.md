@@ -4,7 +4,7 @@ banner:
   title: >
     Aumenta tu tasa de adjudicación: postulaciones data-driven a fondos concursables,
     <span class="ww">gratis.</span>
-
+  content: "Impulsamos tu postulación a fondos concursables para aumentar tus opciones de éxito. Modelo Success Fee: sin pago inicial, solo si adjudicas el fondo y avanzas en tu proyecto."  
   image: "/images/banner.png"
   button:
     enable: true
