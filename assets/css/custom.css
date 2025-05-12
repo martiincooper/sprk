@@ -1,6 +1,19 @@
-/* Add your own custom styles here */
-.double-underline {
-    text-decoration-line: underline;
-    text-decoration-style: double;
+.ww {
+    display: inline-block;
+    position: relative;
+    background: linear-gradient(transparent 60%, #8800CC 60%);
+    background-size: 100% 0.6em;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    animation: highlightMarker 1.5s ease-in-out forwards;
+  }
+  
+  @keyframes highlightMarker {
+    0% {
+      background-size: 0% 0.6em;
+    }
+    100% {
+      background-size: 100% 0.6em;
+    }
   }
   
