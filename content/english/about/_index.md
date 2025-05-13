@@ -24,6 +24,6 @@ La clave del éxito está en la preparación. SPRK te ayuda a estar un paso adel
 
 Nuestra visión es consolidarnos como el servicio líder en Chile para la adjudicación de fondos para el financiamiento estratégico de proyectos innovadores. A través de un enfoque sistemático y adaptativo, buscamos transformar el ecosistema emprendedor, ofreciendo inteligencia de datos y soporte integral que permita a más personas convertir sus ideas en realidades tangibles.
 
-> "Lo esencial es invisible a los ojos." — Antoine de Saint-Exupéry, *El Principito*
+> Lo esencial es invisible a los ojos. — Antoine de Saint-Exupéry, *El Principito*
 
 Con SPRK, no solo queremos ser un recurso, sino un socio estratégico en el camino hacia el éxito. Creemos en el poder de la colaboración, la innovación y la perseverancia para construir un futuro más brillante para todos.
