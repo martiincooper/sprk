@@ -12,7 +12,7 @@ url = "/startups"
 weight = 2
 
 [[main]]
-name = "Founders"
+name = "Emprendedores"
 url = "/founders"
 weight = 3
 
